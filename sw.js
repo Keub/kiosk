@@ -3,6 +3,8 @@ const CACHE = 'keub-kiosk-v1';
 const PRECACHE = [
   '/',
   '/index.html',
+  '/manifest.json',
+  '/favicon.ico',
 ];
 
 // Install: cache the app shell
